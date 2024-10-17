@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dorilem/curso-react.js-platzi.git/static/css/main.490d3d7a.css",
-    "main.js": "/Dorilem/curso-react.js-platzi.git/static/js/main.b11d661d.js",
-    "index.html": "/Dorilem/curso-react.js-platzi.git/index.html",
-    "static/media/delete.svg": "/Dorilem/curso-react.js-platzi.git/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/Dorilem/curso-react.js-platzi.git/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.490d3d7a.css.map": "/Dorilem/curso-react.js-platzi.git/static/css/main.490d3d7a.css.map",
-    "main.b11d661d.js.map": "/Dorilem/curso-react.js-platzi.git/static/js/main.b11d661d.js.map"
+    "main.css": "/curso-react.js-platzi/static/css/main.490d3d7a.css",
+    "main.js": "/curso-react.js-platzi/static/js/main.18f7bc61.js",
+    "index.html": "/curso-react.js-platzi/index.html",
+    "static/media/delete.svg": "/curso-react.js-platzi/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/curso-react.js-platzi/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.490d3d7a.css.map": "/curso-react.js-platzi/static/css/main.490d3d7a.css.map",
+    "main.18f7bc61.js.map": "/curso-react.js-platzi/static/js/main.18f7bc61.js.map"
   },
   "entrypoints": [
     "static/css/main.490d3d7a.css",
-    "static/js/main.b11d661d.js"
+    "static/js/main.18f7bc61.js"
   ]
 }
